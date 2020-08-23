@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "produto": {
+    "nome": "Amendoin",
+    "marca": "yoki",
+    "sku": "CC-LAT-DT-350-0001"
+  },
+  "localizacao": {
+    "corredor": "cereais",
+    "prateleira": 2
+  }
+}
