@@ -2,12 +2,13 @@ const fs = require('fs');
 const path = require('path');
 
 class Marketmap {
-  constructor(data) {
-    this.data = data ? data : path.resolve(__dirname, '..', 'database', 'data-example.json');
+  constructor(listProducts) {
+    this.listProducts = JSON.parse(fs.readFileSync(listProducts));
+    this.data = path.resolve(__dirname, '..', 'database', 'dataset.json');
     this.json = fs.readFileSync(this.data);
   }
 
-  _readJson = () => {
+  _getProducts = () => {
     try {
       const products = JSON.parse(this.json);
 
@@ -17,8 +18,23 @@ class Marketmap {
     }
   }
 
-  getProducts() {
-    return this._readJson();
+  _classifierProducts = () => {
+    const products = this._getProducts();
+    const listProducts = this.listProducts.map(product => product.produto);
+    
+    const classifier = products.filter(product => {
+      for( let produto of listProducts) 
+        if (produto === product.produto) return true;
+    });
+
+    const sortClassifierProducts = classifier.sort(
+      (productA, productB) => productA.corredor - productB.corredor);
+
+    return sortClassifierProducts;
+  }
+
+  getRoutes() {
+    return this._classifierProducts();
   }
 };
 

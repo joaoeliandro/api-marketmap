@@ -1,12 +1,248 @@
-{
-  "id": 1,
-  "produto": {
-    "nome": "Amendoin",
-    "marca": "yoki",
-    "sku": "CC-LAT-DT-350-0001"
+[
+  {
+    "id_produto": 100000,
+    "id_categoria": 7463,
+    "produto": "BALDE RAINHA 10L COLORIDO",
+    "corredor": 10
   },
-  "localizacao": {
-    "corredor": "cereais",
-    "prateleira": 2
+  {
+    "id_produto": 100001,
+    "id_categoria": 7463,
+    "produto": "BALDE RAINHA 10L TRANSLUCIDO",
+    "corredor": 18
+  },
+  {
+    "id_produto": 100002,
+    "id_categoria": 7463,
+    "produto": "BALDE RAINHA 17L TRANSLUCIDO",
+    "corredor": 20
+  },
+  {
+    "id_produto": 100003,
+    "id_categoria": 7463,
+    "produto": "BALDE RAINHA 17L COLORIDO",
+    "corredor": 12
+  },
+  {
+    "id_produto": 100004,
+    "id_categoria": 7467,
+    "produto": "LIXEIRA C\/ PEDAL RAINHA 7,5L",
+    "corredor": 16
+  },
+  {
+    "id_produto": 100005,
+    "id_categoria": 8103,
+    "produto": "MPP FAR ESPECIAL BIANCA SC 25KG",
+    "corredor": 11
+  },
+  {
+    "id_produto": 100006,
+    "id_categoria": 7355,
+    "produto": "ALIM GATO PITUKATS 500G PEIXE",
+    "corredor": 6
+  },
+  {
+    "id_produto": 10000,
+    "id_categoria": 6790,
+    "produto": "CACHACA ORGANICA FUZUE PURA 750ML",
+    "corredor": 14
+  },
+  {
+    "id_produto": 10001,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE CAMBUI 200G PURO",
+    "corredor": 17
+  },
+  {
+    "id_produto": 100020,
+    "id_categoria": 6804,
+    "produto": "CESTO RED RAINHA 14L C\/ALCA BCO",
+    "corredor": 9
+  },
+  {
+    "id_produto": 100021,
+    "id_categoria": 6804,
+    "produto": "CESTO QUAD RAINHA 13L C\/ALCA COLOR",
+    "corredor": 20
+  },
+  {
+    "id_produto": 100022,
+    "id_categoria": 6804,
+    "produto": "CESTO OVAL RAINHA 16L C\/ALCA COLOR",
+    "corredor": 7
+  },
+  {
+    "id_produto": 100023,
+    "id_categoria": 6798,
+    "produto": "CAIXA ORG RAINHA 20L ALTA",
+    "corredor": 6
+  },
+  {
+    "id_produto": 100024,
+    "id_categoria": 6798,
+    "produto": "CAIXA ORG RAINHA 12L ALTA",
+    "corredor": 14
+  },
+  {
+    "id_produto": 100025,
+    "id_categoria": 6798,
+    "produto": "CAIXA ORG RAINHA 6L BAIXA",
+    "corredor": 12
+  },
+  {
+    "id_produto": 100026,
+    "id_categoria": 6811,
+    "produto": "FRUTEIRA RAINHA 3 BANDEJA UN SORT",
+    "corredor": 8
+  },
+  {
+    "id_produto": 100027,
+    "id_categoria": 6811,
+    "produto": "FRUTEIRA RAINHA 4 BANDEJA UN SORT",
+    "corredor": 3
+  },
+  {
+    "id_produto": 100028,
+    "id_categoria": 7280,
+    "produto": "FITA EMPAC SCOTCH 45X50 TRANSP",
+    "corredor": 5
+  },
+  {
+    "id_produto": 100029,
+    "id_categoria": 7202,
+    "produto": "FITA EMPAC SCOTCH 45X50 MARROM ",
+    "corredor": 5
+  },
+  {
+    "id_produto": 10002,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE CAMBUI 200G C\/BANANA",
+    "corredor": 8
+  },
+  {
+    "id_produto": 100030,
+    "id_categoria": 7459,
+    "produto": "ROLO ADESIVO S BRITE BAROQUE",
+    "corredor": 10
+  },
+  {
+    "id_produto": 100031,
+    "id_categoria": 7459,
+    "produto": "ROLO ADESIVO S BRITE ZEBRA",
+    "corredor": 2
+  },
+  {
+    "id_produto": 100032,
+    "id_categoria": 6531,
+    "produto": "ACAI+GUARANA MIL & ROSS PT 1,02KG",
+    "corredor": 12
+  },
+  {
+    "id_produto": 100033,
+    "id_categoria": 6679,
+    "produto": "MASSA PARA PIZZA WICKBOLD 7 GRAOS 140G",
+    "corredor": 1
+  },
+  {
+    "id_produto": 100034,
+    "id_categoria": 6690,
+    "produto": "REQUEIJAO DANONE TRADICIONAL 200G",
+    "corredor": 20
+  },
+  {
+    "id_produto": 100035,
+    "id_categoria": 6689,
+    "produto": "REQ DANONE LIGHT 200G",
+    "corredor": 2
+  },
+  {
+    "id_produto": 100039,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU 350G",
+    "corredor": 2
+  },
+  {
+    "id_produto": 10003,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE CAMBUI 200G C\/AMEIXA",
+    "corredor": 10
+  },
+  {
+    "id_produto": 100040,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU 400G C\/COCO",
+    "corredor": 15
+  },
+  {
+    "id_produto": 100041,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU 400G TRAD",
+    "corredor": 12
+  },
+  {
+    "id_produto": 100042,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU PT 400G TRAD",
+    "corredor": 20
+  },
+  {
+    "id_produto": 100043,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU PT 400G C\/COCO",
+    "corredor": 2
+  },
+  {
+    "id_produto": 100044,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU TAB 400G TRAD",
+    "corredor": 4
+  },
+  {
+    "id_produto": 100045,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU TAB 400G C\/COCO",
+    "corredor": 17
+  },
+  {
+    "id_produto": 100046,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU TAB 400G C\/AMEND",
+    "corredor": 17
+  },
+  {
+    "id_produto": 100047,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU VD 400G TRAD",
+    "corredor": 20
+  },
+  {
+    "id_produto": 100048,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU VD 400G C\/COCO",
+    "corredor": 8
+  },
+  {
+    "id_produto": 100049,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE ZEBU VD 400G C\/CHOC",
+    "corredor": 1
+  },
+  {
+    "id_produto": 10004,
+    "id_categoria": 7779,
+    "produto": "DOCE LEITE CAMBUI 200G C\/ COCO",
+    "corredor": 5
+  },
+  {
+    "id_produto": 100050,
+    "id_categoria": 6647,
+    "produto": "CR NATA TIROL 300G",
+    "corredor": 19
+  },
+  {
+    "id_produto": 100062,
+    "id_categoria": 7184,
+    "produto": "VHO ITAL LAMB COSTAZZURRA 750ML BCO",
+    "corredor": 7
   }
-}
+]
