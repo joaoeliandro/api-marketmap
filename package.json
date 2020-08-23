@@ -1,0 +1,14 @@
+{
+  "name": "api-marketmap",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/joaoeliandro/api-marketmap.git",
+  "author": "João Eliandro <eliandrogermano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
