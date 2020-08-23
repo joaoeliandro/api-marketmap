@@ -1,2 +1,3 @@
 # api-marketmap
-Api de rotas de supermercados parceiros do Supermercado Now para otimização de compras dentro do supermercado
+
+Api de rotas para otimização de compras dentro dos supermercados parceiros do Supermercado Now.
