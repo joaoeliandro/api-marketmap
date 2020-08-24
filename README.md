@@ -53,7 +53,9 @@
 
 ## :octocat: O Projeto
 
-> Aguarde...
+<p align="center">
+    <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1598227798/Untitled__Aug_23_2020_9_02_PM_2_uug7dk.gif" alt="api-marketmap-demo" />
+</p>
 
 ## :rocket: Tecnologias
 
