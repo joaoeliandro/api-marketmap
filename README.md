@@ -42,7 +42,7 @@
 ## Sobre
 
 **Api para otimizar as compras de shoppers dentro dos supermercado**
-> **MarketMap**, uma Api com o uso do GPS que otimiza as compras dos produtos pelos shoppers mostrando as rotas mais rápidas para ele pegar o produto dentro do supermercado. Podendo ser integrada ao aplicativo do Supermercado Now, reduz o tempo de compra dentro do supermercado significativamente. Aqui, é usado:
+> **MarketMap**, uma Api com o uso datasets de localização de produtos e da lista de compras que otimiza as compras dos produtos pelos shoppers mostrando as rotas mais rápidas para ele pegar o produto dentro do supermercado. Podendo ser integrada ao aplicativo do Supermercado Now, reduz o tempo de compra dentro do supermercado significativamente. Aqui, é usado:
 > - Javascript
 > - Node
 > - ExpressJs
